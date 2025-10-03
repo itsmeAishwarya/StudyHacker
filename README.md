@@ -1,6 +1,6 @@
 # StudyHacker 📚💻
 
-Hack your study habits and track your progress with this simple Python-based Study Tracker!  
+Hack your learning, track your progress, and upgrade your study game!! 
 
 ---
 
